@@ -1,25 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\FullStackRepos\\eTickets\\",
+  "WorkspaceRootPath": "C:\\ecommerce\\ecommerce\\eTickets\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CF5CE814-4482-49C9-909C-CA9D8195D3E5}|eTickets.csproj|c:\\fullstackrepos\\etickets\\data\\moviecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF5CE814-4482-49C9-909C-CA9D8195D3E5}|eTickets.csproj|solutionrelative:data\\moviecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF5CE814-4482-49C9-909C-CA9D8195D3E5}|eTickets.csproj|c:\\fullstackrepos\\etickets\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF5CE814-4482-49C9-909C-CA9D8195D3E5}|eTickets.csproj|c:\\ecommerce\\ecommerce\\etickets\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF5CE814-4482-49C9-909C-CA9D8195D3E5}|eTickets.csproj|solutionrelative:models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF5CE814-4482-49C9-909C-CA9D8195D3E5}|eTickets.csproj|c:\\fullstackrepos\\etickets\\models\\cinema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF5CE814-4482-49C9-909C-CA9D8195D3E5}|eTickets.csproj|c:\\ecommerce\\ecommerce\\etickets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5CE814-4482-49C9-909C-CA9D8195D3E5}|eTickets.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5CE814-4482-49C9-909C-CA9D8195D3E5}|eTickets.csproj|c:\\ecommerce\\ecommerce\\etickets\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5CE814-4482-49C9-909C-CA9D8195D3E5}|eTickets.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5CE814-4482-49C9-909C-CA9D8195D3E5}|eTickets.csproj|c:\\ecommerce\\ecommerce\\etickets\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CF5CE814-4482-49C9-909C-CA9D8195D3E5}|eTickets.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5CE814-4482-49C9-909C-CA9D8195D3E5}|eTickets.csproj|c:\\ecommerce\\ecommerce\\etickets\\data\\enums\\moviecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5CE814-4482-49C9-909C-CA9D8195D3E5}|eTickets.csproj|solutionrelative:data\\enums\\moviecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5CE814-4482-49C9-909C-CA9D8195D3E5}|eTickets.csproj|c:\\ecommerce\\ecommerce\\etickets\\models\\cinema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF5CE814-4482-49C9-909C-CA9D8195D3E5}|eTickets.csproj|solutionrelative:models\\cinema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF5CE814-4482-49C9-909C-CA9D8195D3E5}|eTickets.csproj|c:\\fullstackrepos\\etickets\\models\\producer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF5CE814-4482-49C9-909C-CA9D8195D3E5}|eTickets.csproj|c:\\ecommerce\\ecommerce\\etickets\\models\\producer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF5CE814-4482-49C9-909C-CA9D8195D3E5}|eTickets.csproj|solutionrelative:models\\producer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF5CE814-4482-49C9-909C-CA9D8195D3E5}|eTickets.csproj|c:\\fullstackrepos\\etickets\\models\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF5CE814-4482-49C9-909C-CA9D8195D3E5}|eTickets.csproj|c:\\ecommerce\\ecommerce\\etickets\\models\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF5CE814-4482-49C9-909C-CA9D8195D3E5}|eTickets.csproj|solutionrelative:models\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,12 +50,51 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\ecommerce\\ecommerce\\eTickets\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\ecommerce\\ecommerce\\eTickets\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-26T23:48:26.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ecommerce\\ecommerce\\eTickets\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\ecommerce\\ecommerce\\eTickets\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T23:43:44.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\ecommerce\\ecommerce\\eTickets\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\ecommerce\\ecommerce\\eTickets\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T23:37:08.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "MovieCategory.cs",
-              "DocumentMoniker": "C:\\FullStackRepos\\eTickets\\Data\\MovieCategory.cs",
-              "RelativeDocumentMoniker": "Data\\MovieCategory.cs",
-              "ToolTip": "C:\\FullStackRepos\\eTickets\\Data\\MovieCategory.cs",
-              "RelativeToolTip": "Data\\MovieCategory.cs",
+              "DocumentMoniker": "C:\\ecommerce\\ecommerce\\eTickets\\Data\\Enums\\MovieCategory.cs",
+              "RelativeDocumentMoniker": "Data\\Enums\\MovieCategory.cs",
+              "ToolTip": "C:\\ecommerce\\ecommerce\\eTickets\\Data\\Enums\\MovieCategory.cs",
+              "RelativeToolTip": "Data\\Enums\\MovieCategory.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-26T23:15:39.29Z",
@@ -51,51 +102,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Movie.cs",
-              "DocumentMoniker": "C:\\FullStackRepos\\eTickets\\Models\\Movie.cs",
+              "DocumentMoniker": "C:\\ecommerce\\ecommerce\\eTickets\\Models\\Movie.cs",
               "RelativeDocumentMoniker": "Models\\Movie.cs",
-              "ToolTip": "C:\\FullStackRepos\\eTickets\\Models\\Movie.cs",
+              "ToolTip": "C:\\ecommerce\\ecommerce\\eTickets\\Models\\Movie.cs",
               "RelativeToolTip": "Models\\Movie.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAIwBcAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T23:14:00.817Z"
+              "WhenOpened": "2025-04-26T23:14:00.817Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Cinema.cs",
-              "DocumentMoniker": "C:\\FullStackRepos\\eTickets\\Models\\Cinema.cs",
+              "DocumentMoniker": "C:\\ecommerce\\ecommerce\\eTickets\\Models\\Cinema.cs",
               "RelativeDocumentMoniker": "Models\\Cinema.cs",
-              "ToolTip": "C:\\FullStackRepos\\eTickets\\Models\\Cinema.cs",
+              "ToolTip": "C:\\ecommerce\\ecommerce\\eTickets\\Models\\Cinema.cs",
               "RelativeToolTip": "Models\\Cinema.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T23:11:55.278Z"
+              "WhenOpened": "2025-04-26T23:11:55.278Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Producer.cs",
-              "DocumentMoniker": "C:\\FullStackRepos\\eTickets\\Models\\Producer.cs",
+              "DocumentMoniker": "C:\\ecommerce\\ecommerce\\eTickets\\Models\\Producer.cs",
               "RelativeDocumentMoniker": "Models\\Producer.cs",
-              "ToolTip": "C:\\FullStackRepos\\eTickets\\Models\\Producer.cs",
+              "ToolTip": "C:\\ecommerce\\ecommerce\\eTickets\\Models\\Producer.cs",
               "RelativeToolTip": "Models\\Producer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T23:08:15.921Z"
+              "WhenOpened": "2025-04-26T23:08:15.921Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Actor.cs",
-              "DocumentMoniker": "C:\\FullStackRepos\\eTickets\\Models\\Actor.cs",
+              "DocumentMoniker": "C:\\ecommerce\\ecommerce\\eTickets\\Models\\Actor.cs",
               "RelativeDocumentMoniker": "Models\\Actor.cs",
-              "ToolTip": "C:\\FullStackRepos\\eTickets\\Models\\Actor.cs",
+              "ToolTip": "C:\\ecommerce\\ecommerce\\eTickets\\Models\\Actor.cs",
               "RelativeToolTip": "Models\\Actor.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T23:03:24.648Z"
+              "WhenOpened": "2025-04-26T23:03:24.648Z",
+              "EditorCaption": ""
             }
           ]
         }

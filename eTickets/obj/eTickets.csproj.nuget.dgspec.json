@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\FullStackRepos\\eTickets\\eTickets.csproj": {}
+    "C:\\ecommerce\\ecommerce\\eTickets\\eTickets.csproj": {}
   },
   "projects": {
-    "C:\\FullStackRepos\\eTickets\\eTickets.csproj": {
+    "C:\\ecommerce\\ecommerce\\eTickets\\eTickets.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\FullStackRepos\\eTickets\\eTickets.csproj",
+        "projectUniqueName": "C:\\ecommerce\\ecommerce\\eTickets\\eTickets.csproj",
         "projectName": "eTickets",
-        "projectPath": "C:\\FullStackRepos\\eTickets\\eTickets.csproj",
+        "projectPath": "C:\\ecommerce\\ecommerce\\eTickets\\eTickets.csproj",
         "packagesPath": "C:\\Users\\yllka\\.nuget\\packages\\",
-        "outputPath": "C:\\FullStackRepos\\eTickets\\obj\\",
+        "outputPath": "C:\\ecommerce\\ecommerce\\eTickets\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,6 +49,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
