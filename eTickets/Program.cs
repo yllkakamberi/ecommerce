@@ -1,17 +1,16 @@
-using eTickets.Data; // <-- Your namespace
+using eTickets.Data; 
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
 builder.Services.AddControllersWithViews();
 
-// Add AppDbContext
-builder.Services.AddDbContext<AppDbContext>();
+builder.Services.AddDbContext<AppDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnectionString"))
+);
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Home/Error");
@@ -25,8 +24,19 @@ app.UseRouting();
 
 app.UseAuthorization();
 
+SeedDatabase(app);
+
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.Run();
+
+static void SeedDatabase(IApplicationBuilder app)
+{
+    using (var serviceScope = app.ApplicationServices.CreateScope())
+    {
+        var services = serviceScope.ServiceProvider;
+        AppDbInitializer.Seed(app);
+    }
+}
