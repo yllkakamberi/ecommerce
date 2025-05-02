@@ -26,7 +26,15 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Gorenje\Desktop\ecommerce\eTickets
 build_property._RazorSourceGeneratorDebug = 
 
+<<<<<<< HEAD
 [C:/Users/Gorenje/Desktop/ecommerce/eTickets/Views/Home/Index.cshtml]
+=======
+[C:/ecommerce/ecommerce/eTickets/Views/Actors/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0b3JzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ecommerce/ecommerce/eTickets/Views/Home/Index.cshtml]
+>>>>>>> 3dce39f30666d1505c9a41fec5360e289f3a162a
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
